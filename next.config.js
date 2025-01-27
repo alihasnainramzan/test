@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["zorexnow.com"],
+    domains: ["https://zorexnow.netlify.app"],
   },
 };
 
